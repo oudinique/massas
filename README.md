@@ -1,2 +1,2 @@
-# massas
-Pagina sobre massas e culinária
+# receitasCulinarias
+Pagina sobre receitas culinarias
